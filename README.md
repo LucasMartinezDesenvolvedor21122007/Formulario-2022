@@ -193,7 +193,7 @@ fieldset.grupo.campo{
             "nome":"Helena De Sousa Lima"
             "id":2100,
             "descrição": "Desenvolvedora Back-End Junior",
-             "contrato": "5 aos com renovação automatica",
+             "contrato": "5 anos com renovação automatica",
              "salário":50.7
         };
         }
